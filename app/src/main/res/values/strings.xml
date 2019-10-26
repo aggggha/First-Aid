@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First Aid</string>
+    <string name="case_name">Kasus yang Membutuhkan Pertolongan Pertama</string>
+    <string name="item_detail">Pelajari lebih lanjut</string>
+    <string name="greetings">Hi there!</string>
+    <string name="about_email">pradipta.agha(at)gmail.com</string>
+    <string name="about_name">Agha Pradipta Merdekawan</string>
+    <string name="about_sourceLink"><a href="https://m.kaskus.co.id/thread/000000000000000016841989/macam---macam-penyakit-dan-pertolongan-pertamanya/">https://m.kaskus.co.id/thread/000000000000000016841989/macam---macam-penyakit-dan-pertolongan-pertamanya/</a></string>
+    <string name="about_source">Sumber informasi: kaskus.co.id</string>
+</resources>
